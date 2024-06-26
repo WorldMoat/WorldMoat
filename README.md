@@ -7,8 +7,8 @@ Developer of the Discord Bot 'ZENITH'.
 
 ```json
 {
-  "About_Me": {
-    "Tech_Stack": ["Arduino", "Python", "C", "Node.js"] }
+  "About_Me": 
+    "Tech_Stack": ["Arduino", "Python", "C", "Node.js"] 
     "Awards": [
       "District SW Competition 2nd Place",
       "National Creative SW Competition Runner up",
