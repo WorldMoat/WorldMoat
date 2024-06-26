@@ -1,7 +1,7 @@
 # Hello, World! 👋
 My name is SeungGeon Lee.
 
-## 🛠️
+## I'm
 Development Team 'Initial T' Leader\
 Developer of the Discord Bot 'ZENITH'
 
