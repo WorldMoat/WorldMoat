@@ -1,4 +1,4 @@
-# Hello, World(Moat)! 👋
+# Hello, World! 👋
 My name is SeungGeon Lee.
 
 ## 🛠️
