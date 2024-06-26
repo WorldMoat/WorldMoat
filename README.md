@@ -1,5 +1,5 @@
 # Hello 👋
-My name is Seung Geon Lee.\
+My name is Seung Geon Lee.
 
 ## About Me
 Development Team 'Initial T' Leader.\
