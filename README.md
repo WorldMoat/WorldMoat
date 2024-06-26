@@ -1,7 +1,7 @@
 # Hello 👋
 My name is Seung Geon Lee.
 
-## About Me
+## 🛠️
 Development Team 'Initial T' Leader.\
 Developer of the Discord Bot 'ZENITH'.
 
