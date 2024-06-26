@@ -1,5 +1,5 @@
-# Hello 👋
-My name is Seung Geon Lee.
+# Hello, World(Moat)! 👋
+My name is SeungGeon Lee.
 
 ## 🛠️
 Development Team 'Initial T' Leader.\
