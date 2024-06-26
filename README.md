@@ -1,5 +1,7 @@
 # Hello 👋
-My name is Seung Geon Lee. Developer of the Discord Bot 'ZENITH'.
+My name is Seung Geon Lee. 
+Development Team 'Initial T' Leader.
+Developer of the Discord Bot 'ZENITH'.
 
 ```json
 {
