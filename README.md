@@ -1,8 +1,8 @@
 # Hello 👋
-My name is Seung Geon Lee.
+My name is Seung Geon Lee. Developer of 'ZENITH' the Discord Bot.
 
 ## About Me
-- **Language**: Arduino, Python, C, Javascript
+- **Tech Stack**: Arduino, Python, C, Node.js 
 
 ## Awards(old order)
 - District SW Competition 2nd Place 
