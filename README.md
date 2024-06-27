@@ -1,5 +1,5 @@
 # Hello, World! 👋
-My name is SeungGeon Lee.
+I'm SeungGeon Lee.
 
 ## 🛠️
 Development Team 'Initial T' Leader\
