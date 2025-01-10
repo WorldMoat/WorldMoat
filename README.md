@@ -13,7 +13,7 @@ Developer of the Discord Bot 'ZENITH'
       "District SW Competition 2nd Place",
       "National Creative SW Competition Runner up",
       "Sogang Univ. Presidential Award",
-      "SAMSUNG SW Creative Contest Best 30th",
+      "SAMSUNG SW Creative Contest Best 30",
       "and more..." ]
 }
 ```
