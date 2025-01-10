@@ -12,7 +12,7 @@ Developer of the Discord Bot 'ZENITH'
     "Awards": [
       "District SW Competition 2nd Place",
       "National Creative SW Competition Runner up",
-      "Winner of the Office Education Science Invention Competition",
+      "Winner of the Office Education's Science Invention Competition",
       "Sogang Univ. Presidential Award",
       "SAMSUNG SW Creative Contest Best 30",
       "and more..." ]
