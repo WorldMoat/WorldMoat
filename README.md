@@ -14,7 +14,7 @@ Developer of the Discord Bot 'ZENITH'
       "National Creative SW Competition Runner up",
       "Winner of the Ministry of Education's Science Invention Competition",
       "Sogang Univ. Presidential Award",
-      "SAMSUNG SW Creative Contest Best 30",
+      "SAMSUNG Junior SW Creative Contest Best 30th",
       "Graduated from SNUE SW Gifted Education Institute",
       "and more..." ]
 }
