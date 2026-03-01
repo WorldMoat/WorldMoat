@@ -9,7 +9,7 @@ Developer of the Discord Bot 'ZENITH' for 5,000+ users
 ```json
 {
   "About_Me":
-    "Tech_Stack": ["Arduino", "Python", "C", "Node.js", "Swift 5", "Xcode"] 
+    "Programming": ["Arduino", "Python", "C", "Node.js", "Swift 5", "Xcode"] 
     "Awards": [
       "District SW Competition 2nd Place",
       "National Creative SW Competition Runner up",
