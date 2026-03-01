@@ -3,7 +3,8 @@ I'm SeungGeon Lee.
 
 ## 🛠️
 Development Team 'Initial T' Leader\
-Developer of the Discord Bot 'ZENITH'
+Developer of the Discord Bot 'ZENITH' for 5,000+ users
+
 
 ```json
 {
