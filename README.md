@@ -1,22 +1,53 @@
-# Hello, World! 👋
-I'm SeungGeon Lee.
+# Hello, World! 👋 I'm SeungGeon Lee
 
-## 🛠️
-Development Team 'Initial T' Leader\
-Developer of the Discord Bot 'ZENITH' for 5,000+ users
+**Development Team 'Initial T' — Leader**  
+**Discord Bot 'ZENITH'** for 5,000+ users
 
+---
+
+## 👨‍💻 About Me
 
 ```json
 {
-  "About_Me":
-    "Programming": ["Arduino", "Python", "C", "Node.js", "Swift 5", "Xcode"] 
-    "Awards": [
-      "District SW Competition 2nd Place",
-      "National Creative SW Competition Runner up",
-      "Winner of the Ministry of Education's Science Invention Competition",
-      "Sogang Univ. Presidential Award",
-      "SAMSUNG Junior SW Creative Contest Best 30th",
-      "Graduated from SNUE SW Gifted Education Institute",
-      "and more..." ]
+  "project": {
+    "name": "ZENITH",
+    "type": "Discord Bot",
+    "users": "5,000+"
+  },
+  "languages": ["Python", "C", "Node.js", "Swift 5"],
+  "tools":     ["Arduino", "Xcode"],
+  "status":    "Always building something new 🚀"
 }
 ```
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages** — Python · C · Node.js · Swift 5
+- **Hardware & Tools** — Arduino · Xcode
+- **Platform** — Discord Bot Development
+
+---
+
+## 🏆 Awards & Achievements
+
+| | Achievement |
+|:---:|---|
+| 🥈 | District SW Competition — **2nd Place** |
+| 🏅 | National Creative SW Competition — **Runner-up** |
+| 🏆 | Ministry of Education Science Invention Competition — **Winner** |
+| 🎖️ | **Sogang University Presidential Award** |
+| ⭐ | SAMSUNG Junior SW Creative Contest — **Best 30** |
+| 🎓 | SNUE SW Gifted Education Institute — **Graduate** |
+| ➕ | *and more...* |
+
+---
+
+## 🚀 Featured Project
+
+**[ZENITH](https://github.com/YOUR_USERNAME/YOUR_ZENITH_REPO)** — Discord Bot serving 5,000+ users
+
+---
+
+> *Always building something new 🚀*
