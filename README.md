@@ -1,4 +1,4 @@
-# Hello, World! 👋 I'm SeungGeon Lee
+# Hi There!
 
 **Development Team 'Initial T' — Leader**  
 **Discord Bot 'ZENITH'** for 5,000+ users
