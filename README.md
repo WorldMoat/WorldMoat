@@ -49,5 +49,3 @@
 **[ZENITH](https://github.com/YOUR_USERNAME/YOUR_ZENITH_REPO)** — Discord Bot serving 5,000+ users
 
 ---
-
-> *Always building something new 🚀*
