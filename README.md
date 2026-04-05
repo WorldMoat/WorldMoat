@@ -46,6 +46,6 @@
 
 ## 🚀 Featured Project
 
-**[ZENITH](https://github.com/YOUR_USERNAME/YOUR_ZENITH_REPO)** — Discord Bot serving 5,000+ users
+**[ZENITH](https://github.com/WorldMoat/ZENITH)**
 
 ---
