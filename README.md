@@ -12,7 +12,7 @@
     "name": "ZENITH",
     "type": "Discord Bot",
     "users": "5,000+"
-  }
+}
 ```
 
 ---
