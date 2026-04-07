@@ -12,11 +12,7 @@
     "name": "ZENITH",
     "type": "Discord Bot",
     "users": "5,000+"
-  },
-  "languages": ["Python", "C", "Node.js", "Swift 5"],
-  "tools":     ["Arduino", "Xcode"],
-  "status":    "Always building something new 🚀"
-}
+  }
 ```
 
 ---
