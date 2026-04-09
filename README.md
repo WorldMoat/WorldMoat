@@ -1,6 +1,6 @@
 # Hi There! 
 
-**Development Team 'Initial T' — Leader**  
+**I'm SeungGeon Lee.**
 
 ---
 
