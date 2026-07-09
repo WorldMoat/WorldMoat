@@ -6,14 +6,6 @@
 
 ## 👨‍💻 About Me
 
-```json
-{
-  "project": {
-    "name": "Down to Earth",
-    "type": "GAON NURI Official Website",
-}
-```
-
 ---
 
 ## 🛠️ Tech Stack
