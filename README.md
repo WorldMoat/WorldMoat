@@ -9,9 +9,8 @@
 ```json
 {
   "project": {
-    "name": "ZENITH",
-    "type": "Discord Bot",
-    "users": "5,000+"
+    "name": "Down to Earth",
+    "type": "GAON NURI Official Website",
 }
 ```
 
