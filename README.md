@@ -4,10 +4,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
----
-
 ## 🛠️ Tech Stack
 
 - **Languages** — Python · C · Node.js · Swift 5
