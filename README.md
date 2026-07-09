@@ -41,6 +41,6 @@
 
 ## 🚀 Featured Project
 
-**[ZENITH](https://github.com/WorldMoat/ZENITH)**
+**[ZENITH](https://github.com/WorldMoat/ZENITH)** / **[Down to Earth](https://github.com/WorldMoat/gaonnuri_official)**
 
 ---
