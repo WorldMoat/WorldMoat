@@ -25,7 +25,7 @@ in the field of **AI & Efficient Computing**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -42,7 +42,7 @@ in the field of **AI & Efficient Computing**
 
 ---
 
-## 🏆 Awards & Achievements
+## Awards & Achievements
 
 <div align="center">
 
@@ -61,7 +61,7 @@ in the field of **AI & Efficient Computing**
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 <div align="center">
 
@@ -79,7 +79,7 @@ in the field of **AI & Efficient Computing**
 
 ---
 
-## 🫂 My Friends
+## My Friends
 
 <p align="center">
   <!-- FRIENDS:START -->
@@ -196,7 +196,7 @@ in the field of **AI & Efficient Computing**
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  Thanks for visiting my profile!
 </p>
 
 <p align="center">
