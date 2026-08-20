@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hello, World!</h1>
 
 <p align="center">
-  <i>AI · Programming · Software</i>
+  <i>AI · Hardware · Software</i>
 </p>
 
 ---
