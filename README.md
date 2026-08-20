@@ -66,8 +66,6 @@ in the field of **AI & Efficient Computing**
 <div align="center">
 
 ### 🌌 [ZENITH](https://github.com/WorldMoat/ZENITH)
-
-
 <br>
 
 ### 🌍 [Down to Earth](https://github.com/WorldMoat/gaonnuri_official)
