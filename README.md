@@ -10,7 +10,7 @@
 
 ---
 
-## 🔬 Research
+## Research
 
 <div align="center">
 
