@@ -83,7 +83,114 @@ in the field of **AI & Efficient Computing**
 
 <p align="center">
   <!-- FRIENDS:START -->
-  <!-- FRIENDS:END -->
+<a href="https://github.com/BigTankBoy">
+    <img
+      src="https://avatars.githubusercontent.com/u/160370194?v=4"
+      width="80"
+      height="80"
+      alt="BigTankBoy"
+      title="BigTankBoy"
+      style="border-radius: 50%;"
+    />
+  </a>
+  &nbsp;
+  
+  <a href="https://github.com/GAONNURI-Official">
+    <img
+      src="https://avatars.githubusercontent.com/u/300375226?v=4"
+      width="80"
+      height="80"
+      alt="GAONNURI-Official"
+      title="GAONNURI-Official"
+      style="border-radius: 50%;"
+    />
+  </a>
+  &nbsp;
+  
+  <a href="https://github.com/heeguny">
+    <img
+      src="https://avatars.githubusercontent.com/u/76796442?v=4"
+      width="80"
+      height="80"
+      alt="heeguny"
+      title="heeguny"
+      style="border-radius: 50%;"
+    />
+  </a>
+  &nbsp;
+  
+  <a href="https://github.com/Jiyeon125">
+    <img
+      src="https://avatars.githubusercontent.com/u/173761355?v=4"
+      width="80"
+      height="80"
+      alt="Jiyeon125"
+      title="Jiyeon125"
+      style="border-radius: 50%;"
+    />
+  </a>
+  &nbsp;
+  
+  <a href="https://github.com/minseo0388">
+    <img
+      src="https://avatars.githubusercontent.com/u/42634731?v=4"
+      width="80"
+      height="80"
+      alt="minseo0388"
+      title="minseo0388"
+      style="border-radius: 50%;"
+    />
+  </a>
+  &nbsp;
+  
+  <a href="https://github.com/pmh-only">
+    <img
+      src="https://avatars.githubusercontent.com/u/39158228?v=4"
+      width="80"
+      height="80"
+      alt="pmh-only"
+      title="pmh-only"
+      style="border-radius: 50%;"
+    />
+  </a>
+  &nbsp;
+  
+  <a href="https://github.com/simongoricar">
+    <img
+      src="https://avatars.githubusercontent.com/u/11632445?v=4"
+      width="80"
+      height="80"
+      alt="simongoricar"
+      title="simongoricar"
+      style="border-radius: 50%;"
+    />
+  </a>
+  &nbsp;
+  
+  <a href="https://github.com/tmdghks">
+    <img
+      src="https://avatars.githubusercontent.com/u/52129761?v=4"
+      width="80"
+      height="80"
+      alt="tmdghks"
+      title="tmdghks"
+      style="border-radius: 50%;"
+    />
+  </a>
+  &nbsp;
+  
+  <a href="https://github.com/wonderlandpark">
+    <img
+      src="https://avatars.githubusercontent.com/u/31924512?v=4"
+      width="80"
+      height="80"
+      alt="wonderlandpark"
+      title="wonderlandpark"
+      style="border-radius: 50%;"
+    />
+  </a>
+  &nbsp;
+<!-- FRIENDS:END -->
 </p>
 
 ---
