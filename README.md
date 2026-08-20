@@ -5,10 +5,6 @@
 <h1 align="center">👋 Hello, World!</h1>
 
 <p align="center">
-  <b>I'm Seung-Geon Lee.</b>
-</p>
-
-<p align="center">
   <i>AI · Programming · Software</i>
 </p>
 
