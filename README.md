@@ -67,13 +67,11 @@ in the field of **AI & Efficient Computing**
 
 ### 🌌 [ZENITH](https://github.com/WorldMoat/ZENITH)
 
-> A featured project by **WorldMoat**
 
 <br>
 
 ### 🌍 [Down to Earth](https://github.com/WorldMoat/gaonnuri_official)
 
-> A featured project by **WorldMoat**
 
 </div>
 
