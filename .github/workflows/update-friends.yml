@@ -1,0 +1,99 @@
+name: Update Friends
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-friends:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Get Following
+        id: friends
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const following = await github.paginate(
+              github.rest.users.listFollowingForUser,
+              {
+                username: context.repo.owner,
+                per_page: 100
+              }
+            );
+
+            const friends = following
+              .sort((a, b) => a.login.localeCompare(b.login));
+
+            let html = "";
+
+            for (const friend of friends) {
+              html += `
+              <a href="https://github.com/${friend.login}">
+                <img
+                  src="${friend.avatar_url}"
+                  width="80"
+                  height="80"
+                  alt="${friend.login}"
+                  title="${friend.login}"
+                  style="border-radius: 50%;"
+                />
+              </a>
+              &nbsp;
+              `;
+            }
+
+            core.setOutput("html", html);
+
+      - name: Update README
+        env:
+          FRIENDS_HTML: ${{ steps.friends.outputs.html }}
+        run: |
+          python <<'PY'
+          import os
+          import re
+
+          path = "README.md"
+
+          with open(path, "r", encoding="utf-8") as f:
+              readme = f.read()
+
+          friends = os.environ["FRIENDS_HTML"].strip()
+
+          replacement = f"""<!-- FRIENDS:START -->
+          {friends}
+          <!-- FRIENDS:END -->"""
+
+          pattern = r"<!-- FRIENDS:START -->.*?<!-- FRIENDS:END -->"
+
+          readme = re.sub(
+              pattern,
+              replacement,
+              readme,
+              flags=re.DOTALL
+          )
+
+          with open(path, "w", encoding="utf-8") as f:
+              f.write(readme)
+          PY
+
+      - name: Commit Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: update friends"
+            git push
+          fi
