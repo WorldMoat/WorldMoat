@@ -19,7 +19,7 @@
 **Undergraduate Research Intern**
 
 Conducting collaborative research with **NVIDIA**  
-in the field of **AI & Efficient Computing**
+in the field of **Multimodal & Efficient Computing**
 
 </div>
 
