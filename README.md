@@ -27,6 +27,8 @@ in the field of **AI & Efficient Computing**
 
 ## Tech Stack
 
+### Languages
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
@@ -34,10 +36,24 @@ in the field of **AI & Efficient Computing**
   <img src="https://img.shields.io/badge/Swift%205-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
 
+### Hardware & Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
+</p>
+
+### Platform
+
+<p align="center">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</p>
+
+### AI Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cowork-6E56CF?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
