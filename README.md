@@ -155,6 +155,18 @@ in the field of **Multimodal & Efficient Computing**
   </a>
   &nbsp;
   
+  <a href="https://github.com/NVIDIA">
+    <img
+      src="https://avatars.githubusercontent.com/u/1728152?v=4"
+      width="80"
+      height="80"
+      alt="NVIDIA"
+      title="NVIDIA"
+      style="border-radius: 50%;"
+    />
+  </a>
+  &nbsp;
+  
   <a href="https://github.com/pmh-only">
     <img
       src="https://avatars.githubusercontent.com/u/39158228?v=4"
