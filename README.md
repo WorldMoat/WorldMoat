@@ -81,10 +81,10 @@ in the field of **Multimodal & Efficient Computing**
 
 <div align="center">
 
-### 🌌 [ZENITH](https://github.com/WorldMoat/ZENITH)
+### [ZENITH](https://github.com/WorldMoat/ZENITH)
 <br>
 
-### 🌍 [Down to Earth](https://worldmoat.github.io/gaonnuri_official/)
+### [Down to Earth](https://worldmoat.github.io/gaonnuri_official/)
 
 
 </div>
