@@ -131,6 +131,18 @@ in the field of **Multimodal & Efficient Computing**
   </a>
   &nbsp;
   
+  <a href="https://github.com/HwiYoungKim">
+    <img
+      src="https://avatars.githubusercontent.com/u/266646574?v=4"
+      width="80"
+      height="80"
+      alt="HwiYoungKim"
+      title="HwiYoungKim"
+      style="border-radius: 50%;"
+    />
+  </a>
+  &nbsp;
+  
   <a href="https://github.com/Jiyeon125">
     <img
       src="https://avatars.githubusercontent.com/u/173761355?v=4"
