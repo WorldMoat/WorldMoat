@@ -231,9 +231,6 @@ in the field of **Multimodal & Efficient Computing**
 
 ---
 
-<p align="center">
-  Thanks for visiting my profile!
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
