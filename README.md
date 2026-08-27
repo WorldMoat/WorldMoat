@@ -16,7 +16,7 @@
 
 ### Seoul National University × NVIDIA
 
-**Undergraduate Research Intern**
+**Undergraduate Researcher**
 
 Conducting collaborative research with **NVIDIA**  
 in the field of **Multimodal & Efficient Computing**
