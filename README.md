@@ -143,6 +143,18 @@ in the field of **Multimodal & Efficient Computing**
   </a>
   &nbsp;
   
+  <a href="https://github.com/icrf-hot">
+    <img
+      src="https://avatars.githubusercontent.com/u/265195300?v=4"
+      width="80"
+      height="80"
+      alt="icrf-hot"
+      title="icrf-hot"
+      style="border-radius: 50%;"
+    />
+  </a>
+  &nbsp;
+  
   <a href="https://github.com/Jiyeon125">
     <img
       src="https://avatars.githubusercontent.com/u/173761355?v=4"
