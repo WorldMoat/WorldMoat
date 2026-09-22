@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### Seoul National University × NVIDIA
+### Seoul National University 
 
 **Undergraduate Researcher**
 
