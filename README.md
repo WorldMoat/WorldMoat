@@ -119,6 +119,18 @@ in the field of **Multimodal & Efficient Computing**
   </a>
   &nbsp;
   
+  <a href="https://github.com/gganwoor">
+    <img
+      src="https://avatars.githubusercontent.com/u/139461535?v=4"
+      width="80"
+      height="80"
+      alt="gganwoor"
+      title="gganwoor"
+      style="border-radius: 50%;"
+    />
+  </a>
+  &nbsp;
+  
   <a href="https://github.com/heeguny">
     <img
       src="https://avatars.githubusercontent.com/u/76796442?v=4"
@@ -150,6 +162,18 @@ in the field of **Multimodal & Efficient Computing**
       height="80"
       alt="icrf-hot"
       title="icrf-hot"
+      style="border-radius: 50%;"
+    />
+  </a>
+  &nbsp;
+  
+  <a href="https://github.com/jh4317">
+    <img
+      src="https://avatars.githubusercontent.com/u/128342823?v=4"
+      width="80"
+      height="80"
+      alt="jh4317"
+      title="jh4317"
       style="border-radius: 50%;"
     />
   </a>
