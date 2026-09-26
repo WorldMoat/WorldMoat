@@ -14,7 +14,8 @@
 
 <div align="center">
 
-### Seoul National University 
+## Seoul National University 
+### CAPP Lab.
 
 **Undergraduate Researcher**
 
