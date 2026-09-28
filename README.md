@@ -15,9 +15,9 @@
 <div align="center">
 
 ## Seoul National University 
-### CAPP Lab. - IMSI Lab
+### CAPP Lab.
 
-**Undergraduate Researcher**
+**IMSI Lab Undergraduate Researcher**
 
 Conducting collaborative research with **NVIDIA**  
 in the field of **Multimodal & Efficient Computing**
