@@ -15,7 +15,7 @@
 <div align="center">
 
 ## Seoul National University 
-### CAPP Lab.
+### CAPP Lab. - IMSI Lab
 
 **Undergraduate Researcher**
 
