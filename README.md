@@ -144,6 +144,18 @@ in the field of **Multimodal & Efficient Computing**
   </a>
   &nbsp;
   
+  <a href="https://github.com/huntaron0828-sketch">
+    <img
+      src="https://avatars.githubusercontent.com/u/319264082?v=4"
+      width="80"
+      height="80"
+      alt="huntaron0828-sketch"
+      title="huntaron0828-sketch"
+      style="border-radius: 50%;"
+    />
+  </a>
+  &nbsp;
+  
   <a href="https://github.com/HwiYoungKim">
     <img
       src="https://avatars.githubusercontent.com/u/266646574?v=4"
