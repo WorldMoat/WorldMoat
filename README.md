@@ -4,6 +4,8 @@
 
 <h1 align="center">👋 Hello, World!</h1>
 
+<p align="center">Computer Science and Engineering undergraduate at Kyungpook National University</p>
+
 <p align="center">
   <i>AI · Hardware · Software</i>
 </p>
